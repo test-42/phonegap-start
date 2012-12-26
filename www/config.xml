@@ -3,7 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.phonegap.hello-world"
         version   = "2.0.0">
-    <name>Hello World你好</name>
+    <name>Hello World你世界好</name>
 
     <description>
         Hello World 三国内wegwnei阿哥sample application that responds to the deviceready event.
